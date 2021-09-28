@@ -1,6 +1,5 @@
 ### Hello! I'm Carita <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-An aspiring junior software developer
-
+An aspiring junior software developer.
 
 ### &#128295; Tech and Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
