@@ -10,7 +10,7 @@ An aspiring junior software developer.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
 ![](https://img.shields.io/badge/FrameWork-Asp.NET-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
-![](https://img.shields.io/badge/FramwWork-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
+![](https://img.shields.io/badge/FrameWork-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=edb9eb)
